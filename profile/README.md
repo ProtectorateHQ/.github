@@ -36,7 +36,7 @@ catalog changes.
 
 | Repository | What it is |
 | --- | --- |
-| [`emisar`](https://github.com/EmisarHQ/emisar) | The control plane, the on-host runner, the MCP bridge, and the action-pack catalog. |
+| [`emisar`](https://github.com/AndrewDryga/emisar) | The control plane, the on-host runner, the MCP bridge, and the action-pack catalog. |
 | [`emisar-cursor-plugin`](https://github.com/EmisarHQ/emisar-cursor-plugin) | Cursor plugin: governed infrastructure actions over MCP. |
 
 ## Start with one host
