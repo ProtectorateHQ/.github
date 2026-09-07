@@ -14,8 +14,10 @@ custom lowercase lettering.
 | --- | --- |
 | Company, headings and prose | Protectorate |
 | GitHub organization handle | ProtectorateHQ |
-| Products | Coop, Emisar, Ryker |
+| Products | co:op, Emisar, Ryker |
 | Logo artwork | Supplied lowercase protectorate wordmark |
+
+Write co:op with lowercase letters and a colon, including in headings and links.
 
 Protectorate is the umbrella company, not a new name for every product. Keep
 product names and identities distinct. A small “A Protectorate product”
@@ -28,7 +30,7 @@ renaming history out of new product pages.
 - **Ryker:** a proactive AI teammate in Slack and GitHub. It takes on engineering
   work, follows through on tasks, picks up alerts, and carries out requested
   fixes through Emisar.
-- **Coop:** a runtime and orchestrator for coding agents. Run coding agents in
+- **co:op:** a runtime and orchestrator for coding agents. Run coding agents in
   containers, manage their tasks, and coordinate work across models.
 - **Emisar:** one secure connection from AI agents to infrastructure and
   third-party tools. Connect each agent once, then expand its available actions
@@ -48,7 +50,7 @@ underline starts at the name, not at the image.
 
 | Product | Current mark | Source |
 | --- | --- | --- |
-| Coop | <img src="../profile/assets/coop.svg" alt="Coop" width="40" height="40"> | [Coop's compact website mark](https://github.com/AndrewDryga/coop/blob/main/site/assets/img/favicon.svg) |
+| co:op | <img src="../profile/assets/coop.svg" alt="co:op" width="40" height="40"> | [co:op's compact website mark](https://github.com/AndrewDryga/coop/blob/main/site/assets/img/favicon.svg) |
 | Emisar | <img src="../profile/assets/emisar-avatar.png" alt="Emisar" width="40" height="40"> | [Emisar avatar](../profile/assets/emisar-avatar.png) |
 | Ryker | <img src="../profile/assets/ryker.svg?v=reply" alt="Ryker" width="40" height="40"> | [Reply logo and usage guide](ryker/README.md) |
 

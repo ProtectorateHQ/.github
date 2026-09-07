@@ -14,7 +14,7 @@
 Talk to Ryker in Slack and GitHub like you would talk to a teammate.
 Hand it a job: build a feature, fix a bug, review a pull request, investigate a failing service, or just tell it to proactively fix all issues raised by your Grafana alerts. It gets to work, keeps track of the context, follows up on unfinished tasks, and starts working on an incident even before you are paged.
 
-It uses Emisar for secure remote access and Coop to run coding agents in secure sandboxes, manage their tasks, and coordinate work across models.
+It uses Emisar for secure remote access and co:op to run coding agents in secure sandboxes, manage their tasks, and coordinate work across models.
 
 [Meet Ryker](https://github.com/AndrewDryga/responder#quick-start) · [Source](https://github.com/AndrewDryga/responder)
 
@@ -31,11 +31,11 @@ records all actions performed.
 
 [Try Emisar](https://emisar.dev/docs/quickstart) · [See available actions](https://emisar.dev/packs) · [How Emisar works](https://emisar.dev/how-it-works) · [How Emisar controls access](https://emisar.dev/security) · [Source](https://github.com/AndrewDryga/emisar)
 
-## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/coop.svg" width="40" height="40" align="absmiddle" alt="Coop logo">&ensp;[Coop](https://coop.dryga.com) — a runtime and orchestrator for coding agents
+## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/coop.svg" width="40" height="40" align="absmiddle" alt="co:op logo">&ensp;[co:op](https://coop.dryga.com) — a runtime and orchestrator for coding agents
 
 Run coding agents in containers, manage their tasks, and coordinate work across models.
 
-[Try Coop](https://coop.dryga.com) · [Source](https://github.com/AndrewDryga/coop)
+[Try co:op](https://coop.dryga.com) · [Source](https://github.com/AndrewDryga/coop)
 
 ## How they work together
 
@@ -44,7 +44,8 @@ the affected systems. It investigates the problem and posts what it finds in
 the thread, without waiting for someone to ask.
 
 If the fix needs a code change, Ryker offers to make the fix.
-Once you approve, an isolated Coop box is spawned with a coding agent that fixes the issue, and Ryker opens a GitHub pull request for your review. Emisar checks any requested system actions against your policy and ensures that the agent can work unattended and asks for approval only when it's needed.
+Once you approve, an isolated co:op box is spawned with a coding agent that fixes the issue, and Ryker opens a GitHub pull request for your review. Emisar checks any requested system actions against your policy and ensures that the agent can work unattended and asks for approval only when it's needed.
 
-_Ryker is the teammate. Emisar provides one secure connection to infrastructure
-and third-party tools. Coop runs and coordinates the coding agents._
+_co:op lets AI agents work securely on your computer. Emisar extends that security
+to your infrastructure and third-party tools. Ryker brings both together as your
+AI teammate in Slack and GitHub._
