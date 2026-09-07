@@ -25,13 +25,6 @@ your rules.
 
 [Meet Ryker](https://github.com/AndrewDryga/responder#quick-start) · [Source](https://github.com/AndrewDryga/responder)
 
-## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/coop.svg" width="40" height="40" align="absmiddle" alt="Coop logo">&ensp;[Coop](https://coop.dryga.com) — a runtime and orchestrator for coding agents
-
-Run coding agents in containers, manage their tasks, and coordinate work across
-models.
-
-[Try Coop](https://coop.dryga.com) · [Source](https://github.com/AndrewDryga/coop)
-
 ## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/emisar-avatar.png" width="40" height="40" align="absmiddle" alt="Emisar logo">&ensp;[Emisar](https://emisar.dev) — one connection to your tools
 
 Connect each AI agent to Emisar once for secure remote access to your
@@ -45,6 +38,13 @@ records actions performed through Emisar: who requested them, approval
 decisions, and results.
 
 [Try Emisar](https://emisar.dev/docs/quickstart) · [See available actions](https://emisar.dev/packs) · [Source](https://github.com/AndrewDryga/emisar)
+
+## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/coop.svg" width="40" height="40" align="absmiddle" alt="Coop logo">&ensp;[Coop](https://coop.dryga.com) — a runtime and orchestrator for coding agents
+
+Run coding agents in containers, manage their tasks, and coordinate work across
+models.
+
+[Try Coop](https://coop.dryga.com) · [Source](https://github.com/AndrewDryga/coop)
 
 ## How they work together
 
