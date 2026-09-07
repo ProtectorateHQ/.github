@@ -9,9 +9,6 @@
   You decide what AI can access, what it can change, and when it needs your approval.
 </p>
 
-Ryker is the teammate. Coop runs and coordinates the coding agents. Emisar
-gives them one secure connection to infrastructure and third-party tools.
-
 ## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/ryker.svg?v=reply" width="40" height="40" align="absmiddle" alt="Ryker logo">&ensp;[Ryker](https://github.com/AndrewDryga/responder) — your proactive AI teammate
 
 Talk to Ryker in Slack and GitHub like you would a teammate. Hand it a job:
@@ -63,3 +60,6 @@ into Slack and GitHub with Ryker.
 ---
 
 [How Emisar controls access](https://emisar.dev/security)
+
+Ryker is the teammate. Emisar provides one secure connection to infrastructure
+and third-party tools. Coop runs and coordinates the coding agents.
