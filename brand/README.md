@@ -30,9 +30,11 @@ called Responder.
   fixes through Emisar.
 - **Coop:** a runtime and orchestrator for coding agents. Run coding agents in
   containers, manage their tasks, and coordinate work across models.
-- **Emisar:** secure remote access for AI agents to infrastructure and
-  third-party tools. It lets agents do useful work through actions you choose,
-  with policy checks, approvals when needed, and a record of every request.
+- **Emisar:** one secure connection from AI agents to infrastructure and
+  third-party tools. Connect each agent once, then expand its available actions
+  with ready-made or custom action packs. Emisar controls who can access what,
+  provides its own approval system, and keeps a full audit trail of actions
+  performed through it.
 
 Ryker's overnight incident response is a useful example of proactive work.
 Explain how early alerts let it get started before a page; do not promise that

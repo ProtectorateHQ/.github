@@ -10,7 +10,7 @@
 </p>
 
 Ryker is the teammate. Coop runs and coordinates the coding agents. Emisar
-gives them secure remote access to infrastructure and third-party tools.
+gives them one secure connection to infrastructure and third-party tools.
 
 ## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/ryker.svg?v=reply" width="40" height="40" align="absmiddle" alt="Ryker logo">&ensp;[Ryker](https://github.com/AndrewDryga/responder) — your proactive AI teammate
 
@@ -32,12 +32,17 @@ models.
 
 [Try Coop](https://coop.dryga.com) · [Source](https://github.com/AndrewDryga/coop)
 
-## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/emisar-avatar.png" width="40" height="40" align="absmiddle" alt="Emisar logo">&ensp;[Emisar](https://emisar.dev) — secure remote access for AI agents
+## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/emisar-avatar.png" width="40" height="40" align="absmiddle" alt="Emisar logo">&ensp;[Emisar](https://emisar.dev) — one connection to your tools
 
-Connect AI agents to your servers, cloud services, and third-party tools such
-as GitHub and Sentry. They can investigate problems and make changes through
-actions you choose. Emisar checks each request, asks for approval when your
-rules require it, and keeps a record of what happened.
+Connect each AI agent to Emisar once for secure remote access to your
+infrastructure and third-party tools. Start with ready-made actions for tools
+such as GitHub and Sentry, or add your own without setting up another agent
+integration.
+
+Choose who can access which tools and what they can do. Emisar's built-in
+approval system handles requests that need a person. Its full audit trail
+records actions performed through Emisar: who requested them, approval
+decisions, and results.
 
 [Try Emisar](https://emisar.dev/docs/quickstart) · [See available actions](https://emisar.dev/packs) · [Source](https://github.com/AndrewDryga/emisar)
 
