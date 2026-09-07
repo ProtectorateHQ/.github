@@ -60,8 +60,6 @@ against your rules and asks for approval when needed.
 Use Coop or Emisar with the AI assistant you already have, or bring the workflow
 into Slack and GitHub with Ryker.
 
-<sub>Ryker was formerly called Responder. Its source repository still uses that name.</sub>
-
 ---
 
-[Brand guide](https://github.com/ProtectorateHQ/.github/blob/main/brand/README.md) · [Design guide](https://github.com/ProtectorateHQ/.github/blob/main/brand/DESIGN.md) · [Logo assets](https://github.com/ProtectorateHQ/.github/tree/main/brand/assets) · [How Emisar controls access](https://emisar.dev/security)
+[How Emisar controls access](https://emisar.dev/security)

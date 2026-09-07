@@ -20,8 +20,8 @@ custom lowercase lettering.
 Protectorate is the umbrella company, not a new name for every product. Keep
 product names and identities distinct. A small “A Protectorate product”
 endorsement can connect a product to the company; it does not imply a required
-bundle. Use Ryker in new copy. Where necessary, explain once that it was formerly
-called Responder.
+bundle. Use Ryker in customer-facing copy. Keep previous names and repository
+renaming history out of new product pages.
 
 ## Product positioning
 
@@ -97,6 +97,10 @@ Use the opaque banner when the destination's background is unknown.
 Write for someone new to these tools: use simple English and explain the useful
 work first. Introduce each product by its job, then show how the products work
 together through a familiar example. Keep the tone direct, helpful and calm.
+
+Customer-facing pages link to product documentation, demos, source and security
+information. Keep brand guides, design guides and asset libraries out of their
+navigation and footers.
 
 - Name the mechanism or product behavior behind a claim.
 - Describe controls precisely; avoid blanket safety promises.
