@@ -12,7 +12,7 @@
 Ask Ryker for help. Coop gives it a place to work on code, while Emisar controls
 what it can do on your systems.
 
-## [Ryker](https://github.com/AndrewDryga/responder) — a teammate you can ask for help
+## [<img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/ryker.svg" width="40" height="40" align="absmiddle" alt="">&ensp;Ryker](https://github.com/AndrewDryga/responder) — a teammate you can ask for help
 
 Give Ryker a task in Slack. It can investigate a problem, answer questions about
 your systems, or prepare a code change for review. It keeps track of unfinished
@@ -20,7 +20,7 @@ work, so your team can pick up where it left off.
 
 [Meet Ryker](https://github.com/AndrewDryga/responder#quick-start) · [Source](https://github.com/AndrewDryga/responder)
 
-## [Coop](https://coop.dryga.com) — set boundaries for AI coding
+## [<img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/coop.svg" width="40" height="40" align="absmiddle" alt="">&ensp;Coop](https://coop.dryga.com) — set boundaries for AI coding
 
 Run the coding assistant you already use in a separate environment. You choose
 which projects and files it can access. Give it a task or a list of tasks,
@@ -28,7 +28,7 @@ without having to guide every step.
 
 [Try Coop](https://coop.dryga.com) · [Source](https://github.com/AndrewDryga/coop)
 
-## [Emisar](https://emisar.dev) — choose what AI can do on your systems
+## [<img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/emisar-avatar.png" width="40" height="40" align="absmiddle" alt="">&ensp;Emisar](https://emisar.dev) — choose what AI can do on your systems
 
 Let AI look into errors, check whether services are working, or carry out a
 specific change. You choose the actions it can take and which ones need approval.

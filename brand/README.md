@@ -23,6 +23,16 @@ endorsement can connect a product to the company; it does not imply a required
 bundle. Use Ryker in new copy. Where necessary, explain once that it was formerly
 called Responder.
 
+When listing the products together, show each product's own mark beside its name.
+Keep its original colors and proportions; do not replace it with the Forcefield
+symbol. Use equal image boxes and check their visual balance at the displayed size.
+
+| Product | Current mark | Source |
+| --- | --- | --- |
+| Coop | <img src="../profile/assets/coop.svg" alt="Coop" width="40" height="40"> | [Coop's compact website mark](https://github.com/AndrewDryga/coop/blob/main/site/assets/img/favicon.svg) |
+| Emisar | <img src="../profile/assets/emisar-avatar.png" alt="Emisar" width="40" height="40"> | [Emisar avatar](../profile/assets/emisar-avatar.png) |
+| Ryker | <img src="../profile/assets/ryker.svg" alt="Ryker" width="40" height="40"> | [Existing Responder mark](https://github.com/AndrewDryga/responder/blob/main/site/assets/favicon.svg), retained under the Ryker name |
+
 ## Forcefield symbol
 
 Two closed, softly squared contours surround a separate core. The diagonal
