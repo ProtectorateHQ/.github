@@ -30,8 +30,9 @@ called Responder.
   fixes through Emisar.
 - **Coop:** the operating system for coding agents, bringing sandboxing, task
   management, and orchestration together.
-- **Emisar:** controlled access to systems, so AI can carry out the actions you
-  allow, ask for approval when needed, and leave a record of what it did.
+- **Emisar:** secure remote access for AI agents to infrastructure and
+  third-party tools. It lets agents do useful work through actions you choose,
+  with policy checks, approvals when needed, and a record of every request.
 
 Ryker's overnight incident response is a useful example of proactive work.
 Explain how early alerts let it get started before a page; do not promise that

@@ -10,7 +10,7 @@
 </p>
 
 Ryker is the teammate. Coop runs and coordinates the coding agents. Emisar
-controls what they can do on your systems.
+gives them secure remote access to infrastructure and third-party tools.
 
 ## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/ryker.svg?v=reply" width="40" height="40" align="absmiddle" alt="Ryker logo">&ensp;[Ryker](https://github.com/AndrewDryga/responder) — your proactive AI teammate
 
@@ -34,11 +34,12 @@ session or let a team of agents work through your queue.
 
 [Try Coop](https://coop.dryga.com) · [Source](https://github.com/AndrewDryga/coop)
 
-## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/emisar-avatar.png" width="40" height="40" align="absmiddle" alt="Emisar logo">&ensp;[Emisar](https://emisar.dev) — choose what AI can do on your systems
+## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/emisar-avatar.png" width="40" height="40" align="absmiddle" alt="Emisar logo">&ensp;[Emisar](https://emisar.dev) — secure remote access for AI agents
 
-Let AI look into errors, check whether services are working, or carry out a
-specific change. You choose the actions it can take and which ones need approval.
-Emisar checks each request and keeps a record of it.
+Connect AI agents to your servers, cloud services, and third-party tools such
+as GitHub and Sentry. They can investigate problems and make changes through
+actions you choose. Emisar checks each request, asks for approval when your
+rules require it, and keeps a record of what happened.
 
 [Try Emisar](https://emisar.dev/docs/quickstart) · [See available actions](https://emisar.dev/packs) · [Source](https://github.com/AndrewDryga/emisar)
 
