@@ -23,6 +23,20 @@ endorsement can connect a product to the company; it does not imply a required
 bundle. Use Ryker in new copy. Where necessary, explain once that it was formerly
 called Responder.
 
+## Product positioning
+
+- **Ryker:** a proactive AI teammate in Slack and GitHub. It takes on engineering
+  work, follows through on tasks, picks up alerts, and carries out requested
+  fixes through Emisar.
+- **Coop:** the operating system for coding agents, bringing sandboxing, task
+  management, and orchestration together.
+- **Emisar:** controlled access to systems, so AI can carry out the actions you
+  allow, ask for approval when needed, and leave a record of what it did.
+
+Ryker's overnight incident response is a useful example of proactive work.
+Explain how early alerts let it get started before a page; do not promise that
+every incident will be resolved before anyone needs to step in.
+
 When listing the products together, show each product's own mark beside its name.
 Keep its original colors and proportions; do not replace it with the Forcefield
 symbol. Use equal image boxes and check their visual balance at the displayed size.

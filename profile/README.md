@@ -5,26 +5,32 @@
 <h1 align="center">Put AI to work on your code and systems.</h1>
 
 <p align="center">
-  Get help with coding, troubleshooting, and everyday maintenance.<br>
+  Give AI real work: build features, fix bugs, and handle incidents.<br>
   You decide what AI can access, what it can change, and when it needs your approval.
 </p>
 
-Ask Ryker for help. Coop gives it a place to work on code, while Emisar controls
-what it can do on your systems.
+Ryker is the teammate. Coop runs and coordinates the coding agents. Emisar
+controls what they can do on your systems.
 
-## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/ryker.svg?v=reply" width="40" height="40" align="absmiddle" alt="Ryker logo">&ensp;[Ryker](https://github.com/AndrewDryga/responder) — a teammate you can ask for help
+## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/ryker.svg?v=reply" width="40" height="40" align="absmiddle" alt="Ryker logo">&ensp;[Ryker](https://github.com/AndrewDryga/responder) — your proactive AI teammate
 
-Give Ryker a task in Slack. It can investigate a problem, answer questions about
-your systems, or prepare a code change for review. It keeps track of unfinished
-work, so your team can pick up where it left off.
+Talk to Ryker in Slack and GitHub like you would a teammate. Hand it a job:
+build a feature, fix a bug, review a pull request, or investigate a failing
+service. It gets to work, keeps the context, and follows up on unfinished tasks.
+
+Ryker joins conversations when it has something useful to add and watches your
+alert feeds for trouble. Give it early alerts and it can be on an incident
+before you're paged. Ask it to carry out a fix, and it uses Emisar to act within
+your rules.
 
 [Meet Ryker](https://github.com/AndrewDryga/responder#quick-start) · [Source](https://github.com/AndrewDryga/responder)
 
-## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/coop.svg" width="40" height="40" align="absmiddle" alt="Coop logo">&ensp;[Coop](https://coop.dryga.com) — set boundaries for AI coding
+## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/coop.svg" width="40" height="40" align="absmiddle" alt="Coop logo">&ensp;[Coop](https://coop.dryga.com) — the operating system for coding agents
 
-Run the coding assistant you already use in a separate environment. You choose
-which projects and files it can access. Give it a task or a list of tasks,
-without having to guide every step.
+Coop brings sandboxing, task management, and orchestration together. It gives
+coding agents a controlled place to work, tracks tasks from assignment to
+completion, and coordinates agents across different models. Run a single coding
+session or let a team of agents work through your queue.
 
 [Try Coop](https://coop.dryga.com) · [Source](https://github.com/AndrewDryga/coop)
 
@@ -38,13 +44,17 @@ Emisar checks each request and keeps a record of it.
 
 ## How they work together
 
-Suppose your app is running slowly. You ask Ryker to investigate. It uses Emisar
-to check the systems you have connected. If a code fix is needed, you can ask
-Ryker to prepare the change in Coop. Your team reviews it and decides whether
-to release it.
+An alert lands in Slack at 2 a.m. Ryker picks it up and uses Emisar to check
+the affected systems. It investigates the problem and posts what it finds in
+the thread, without waiting for someone to ask.
 
-Use Coop or Emisar with the AI assistant you already have, or use Ryker to bring
-the workflow into your team's Slack conversations.
+If fixing it needs a code change, hand Ryker that job in the same conversation.
+Coop runs the coding agent, and Ryker brings back the change for review. Emisar
+checks any requested system actions against your rules and asks for approval
+when needed.
+
+Use Coop or Emisar with the AI assistant you already have, or bring the workflow
+into Slack and GitHub with Ryker.
 
 <sub>Ryker was formerly called Responder. Its source repository still uses that name.</sub>
 
