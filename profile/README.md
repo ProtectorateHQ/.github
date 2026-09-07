@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/protectorate-banner.png" alt="Protectorate" width="100%">
+  <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/protectorate-banner.png?v=forcefield-a" alt="Protectorate — Forcefield logo" width="100%">
 </p>
 
 <h1 align="center">Let agents work. Keep control.</h1>
@@ -39,3 +39,5 @@ governed infrastructure access.
 ---
 
 [Emisar for Cursor](https://github.com/ProtectorateHQ/emisar-cursor-plugin) · [Emisar security model](https://emisar.dev/security)
+
+[Brand guide](https://github.com/ProtectorateHQ/.github/blob/main/brand/README.md) · [Design guide](https://github.com/ProtectorateHQ/.github/blob/main/brand/DESIGN.md) · [Logo assets](https://github.com/ProtectorateHQ/.github/tree/main/brand/assets)

@@ -1,44 +1,106 @@
-# Protectorate identity
+# Protectorate brand guide
 
-Protectorate is the parent brand. Coop, Emisar, and Ryker retain their own product
-names. Use **ProtectorateHQ** for the GitHub handle and **Protectorate** in prose.
+![Protectorate Forcefield logo](../profile/assets/protectorate-banner.png)
 
-## Mark
+Protectorate builds tools for AI agents to work on code and infrastructure within
+boundaries you choose. The identity pairs the Forcefield symbol with custom
+lowercase lettering.
 
-An open geometric P encloses an orange square. The enclosure represents a defined
-boundary; the square represents an agent working within it.
+[Design guide](DESIGN.md) · [Logo assets](assets) · [CSS tokens](tokens.css)
 
-<img src="../profile/assets/protectorate-avatar.png" alt="Protectorate mark" width="240">
+## Company and product names
 
-## Palette
+| Context | Name |
+| --- | --- |
+| Company, headings and prose | Protectorate |
+| GitHub organization handle | ProtectorateHQ |
+| Products | Coop, Emisar, Ryker |
+| Logo artwork | Supplied lowercase protectorate wordmark |
 
-| Color | Value | Use |
-| --- | --- | --- |
-| Graphite | `#111315` | Background |
-| Warm ivory | `#F2EEE5` | Mark and wordmark |
-| Signal orange | `#FF6138` | Agent square and sparse accents |
+Protectorate is the umbrella company, not a new name for every product. Keep
+product names and identities distinct. A small “A Protectorate product”
+endorsement can connect a product to the company; it does not imply a required
+bundle. Use Ryker in new copy. Where necessary, explain once that it was formerly
+called Responder.
 
-These values are the reference palette for future design work. The supplied
-assets are generated raster artwork, not exact-color vector masters.
+## Forcefield symbol
 
-## Assets
+Two closed, softly squared contours surround a separate core. The diagonal
+silhouette, offset core and unequal spacing are deliberate.
 
-- [`protectorate-avatar.png`](../profile/assets/protectorate-avatar.png): square
-  mark with space for a circular crop. Use for the organization avatar.
-- [`protectorate-banner.png`](../profile/assets/protectorate-banner.png): wide
-  symbol-and-wordmark lockup. Use for the organization profile header.
+Use the supplied artwork. Do not rotate the symbol, centre its core, change its
+stroke widths, open either contour or join the core to a boundary. Keep glow,
+gradients, shadows and extra rings out of the logo. The symbol is a brand
+metaphor, not a guarantee that a product prevents every incident.
 
-Both PNGs are opaque and carry their own dark background, so the identity stays
-consistent on light and dark pages. Preserve their proportions and surrounding
-space. Use the mark without the wordmark at small sizes.
+## Wordmark
 
-The assets were created with built-in image generation and visually reviewed.
+The logo lettering has a licensed IBM Plex Sans Regular foundation with wider
+round forms, redrawn r and t, and pair-specific spacing. It is custom logo
+lettering, not a complete custom typeface.
 
-## GitHub avatar
+Use the outlined wordmark or complete lockup. Retyping “protectorate” in Plex
+does not reproduce the artwork. Do not change the letter spacing, weight or
+symbol-to-name proportions.
 
-An organization owner can upload the avatar in
-[Organization settings → Profile](https://github.com/organizations/ProtectorateHQ/settings/profile).
-Choose the square avatar file and keep the full composition in the crop.
+## Placement and size
 
-GitHub documents the upload workflow in
-[Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
+| Application | Rule |
+| --- | --- |
+| Clear space | At least half the visible core width beyond the visible artwork on every side |
+| Complete logo | At least 220 CSS px wide; prefer 320 px or more |
+| Standalone symbol | Prefer 24 px or more |
+| Symbol below 32 px | Use the supplied optical small variant |
+| 16 px favicon | Use the optical variant; this is the smallest supported case |
+| Avatar | Use the 512 × 512 composition and retain its full crop |
+| Profile banner | Use the 1600 × 520 composition without stretching |
+
+The lockup's transparent canvas is not a substitute for clear space. Apply the
+rule beyond the visible artwork. Use the symbol alone when the name would be
+too small to read.
+
+On a dark surface, use ivory or ivory/orange. On a light surface, use graphite.
+Use the opaque banner when the destination's background is unknown.
+[Color specifications and contrast rules](DESIGN.md#color) cover the full system.
+
+## Voice
+
+Write as a technically literate colleague: direct, specific and calm. Lead with
+the useful work an agent can do, then explain the boundaries that make that work
+appropriate.
+
+- Name the mechanism or product behavior behind a claim.
+- Describe controls precisely; avoid blanket safety promises.
+- Use ordinary words, sentence case and the reader's vocabulary.
+- Keep product capabilities separate. A company-level statement must not imply
+  every product provides the same controls.
+
+The company line is “Let agents work. Keep control.” Use it where it introduces
+the umbrella, not as a repeated footer on every product explanation.
+
+## Asset library
+
+| Use | File |
+| --- | --- |
+| Dark-surface primary logo | [lockup-color.svg](assets/lockup-color.svg) |
+| Light-surface monochrome logo | [lockup.svg](assets/lockup.svg) |
+| Dark-surface monochrome logo | [lockup-reverse.svg](assets/lockup-reverse.svg) |
+| Standalone wordmark on light | [wordmark.svg](assets/wordmark.svg) |
+| Symbol on light | [mark.svg](assets/mark.svg) |
+| Symbol on dark | [mark-reverse.svg](assets/mark-reverse.svg) |
+| Ivory/orange symbol on dark | [mark-color.svg](assets/mark-color.svg) |
+| Optical small symbol | [Light](assets/mark-small.svg) / [dark](assets/mark-small-reverse.svg) |
+| Organization avatar | [PNG](../profile/assets/protectorate-avatar.png) / [SVG](assets/avatar.svg) |
+| Organization profile banner | [PNG](../profile/assets/protectorate-banner.png) / [SVG](assets/banner.svg) |
+
+SVGs contain vector outlines and have no runtime font dependency. PNG exports
+have opaque graphite backgrounds. Use the supplied sRGB values for digital
+work; confirm color with a physical proof for print.
+
+Supporting IBM Plex fonts are bundled unmodified with their
+[SIL Open Font License](assets/fonts/LICENSE.txt). The license covers the fonts.
+
+For an organization avatar change, an owner uploads the PNG under
+[organization profile settings](https://github.com/organizations/ProtectorateHQ/settings/profile).
+GitHub's [profile customization instructions](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
+describe the upload and crop.

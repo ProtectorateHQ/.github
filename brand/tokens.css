@@ -1,0 +1,45 @@
+/* Protectorate umbrella tokens. Apply deliberately; no global element styles. */
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("./assets/fonts/IBMPlexSans-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("./assets/fonts/IBMPlexSans-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("./assets/fonts/IBMPlexMono-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+:root {
+  --protectorate-graphite: #111315;
+  --protectorate-ivory: #F2EEE5;
+  --protectorate-signal: #FF6138;
+  --protectorate-white: #FFFFFF;
+  --protectorate-sans: "IBM Plex Sans", sans-serif;
+  --protectorate-mono: "IBM Plex Mono", monospace;
+  --protectorate-display-size: clamp(2.25rem, 5vw, 4.5rem);
+  --protectorate-heading-size: clamp(1.75rem, 3.5vw, 3rem);
+  --protectorate-body-size: clamp(1rem, 1.3vw, 1.125rem);
+  --protectorate-display-leading: 1.08;
+  --protectorate-body-leading: 1.6;
+  --protectorate-space-unit: 0.25rem;
+  --protectorate-content-max: 75rem;
+  --protectorate-prose-max: 68ch;
+  --protectorate-gutter: clamp(1.5rem, 5vw, 5rem);
+  --protectorate-radius-small: 0.25rem;
+  --protectorate-radius-panel: 0.5rem;
+  --protectorate-duration: 160ms;
+}
+@media (prefers-reduced-motion: reduce) {
+  :root { --protectorate-duration: 0ms; }
+}

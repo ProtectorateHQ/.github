@@ -6,4 +6,7 @@ its brand assets.
 - [Profile copy](profile/README.md)
 - [Avatar](profile/assets/protectorate-avatar.png)
 - [Profile banner](profile/assets/protectorate-banner.png)
-- [Identity guide](brand/README.md)
+- [Brand guide](brand/README.md)
+- [Design guide](brand/DESIGN.md)
+- [Vector assets](brand/assets)
+- [Design tokens](brand/tokens.css)
