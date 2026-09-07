@@ -33,7 +33,7 @@ underline starts at the name, not at the image.
 | --- | --- | --- |
 | Coop | <img src="../profile/assets/coop.svg" alt="Coop" width="40" height="40"> | [Coop's compact website mark](https://github.com/AndrewDryga/coop/blob/main/site/assets/img/favicon.svg) |
 | Emisar | <img src="../profile/assets/emisar-avatar.png" alt="Emisar" width="40" height="40"> | [Emisar avatar](../profile/assets/emisar-avatar.png) |
-| Ryker | <img src="../profile/assets/ryker.svg" alt="Ryker" width="40" height="40"> | [Existing Responder mark](https://github.com/AndrewDryga/responder/blob/main/site/assets/favicon.svg), retained under the Ryker name |
+| Ryker | <img src="../profile/assets/ryker.svg?v=reply" alt="Ryker" width="40" height="40"> | [Reply logo and usage guide](ryker/README.md) |
 
 ## Forcefield symbol
 

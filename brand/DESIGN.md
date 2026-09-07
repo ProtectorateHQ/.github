@@ -82,6 +82,8 @@ Use a quiet “A Protectorate product” endorsement where useful. Keep the prod
 name visually primary on product-owned surfaces. Emisar's green, for example,
 is not replaced by the umbrella's orange.
 
+Use Ryker's [Reply artwork and palette](ryker/README.md) for Ryker surfaces.
+
 ## Interaction and accessibility
 
 - Make links distinguishable without color alone; underline inline links.

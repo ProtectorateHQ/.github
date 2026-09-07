@@ -12,7 +12,7 @@
 Ask Ryker for help. Coop gives it a place to work on code, while Emisar controls
 what it can do on your systems.
 
-## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/ryker.svg" width="40" height="40" align="absmiddle" alt="Ryker logo">&ensp;[Ryker](https://github.com/AndrewDryga/responder) — a teammate you can ask for help
+## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/ryker.svg?v=reply" width="40" height="40" align="absmiddle" alt="Ryker logo">&ensp;[Ryker](https://github.com/AndrewDryga/responder) — a teammate you can ask for help
 
 Give Ryker a task in Slack. It can investigate a problem, answer questions about
 your systems, or prepare a code change for review. It keeps track of unfinished

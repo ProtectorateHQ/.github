@@ -1,12 +1,12 @@
 # Ryker — Reply
 
-A finished artwork proposal for Ryker. This set has not replaced the public product identity.
+Ryker's Reply symbol, custom lettering and ready-to-use logo files.
 
-![Ryker Reply proposal](overview.png)
+![Ryker Reply identity](overview.png)
 
 ## Files
 
-- [Avatar PNG](avatar.png) — 512 × 512, opaque graphite background; ready for GitHub or Slack upload after selection. Preserve the full crop.
+- [Avatar PNG](avatar.png) — 512 × 512, opaque graphite background; ready for GitHub or Slack upload. Preserve the full crop.
 - [Avatar SVG](avatar.svg) — editable source of the same composition.
 - [Primary dark-surface logo](lockup-color.svg) — mint symbol and ivory wordmark.
 - [Light-surface logo](lockup.svg) — graphite symbol and wordmark.
@@ -35,5 +35,3 @@ Mint belongs on graphite. Use graphite artwork on white or ivory; do not use min
 The two symbol contours are newly drawn Bézier paths that refine the Reply concept. All shapes use flat fills: no raster images, textures, filters, gradients or external references. PNGs are rendered from these vector files, not retouched generation output.
 
 The lowercase lettering has an IBM Plex Sans SemiBold foundation, with redrawn r shoulders, a slightly widened e and individual spacing for ry, yk, ke and er. It is logo lettering, not a new font. The logo has no runtime font dependency. The source font's [SIL Open Font License](FONT-LICENSE.txt) is included.
-
-This package is a design proposal, not trademark-clearance evidence. Protectorate's approved logo and current product artwork remain unchanged.
