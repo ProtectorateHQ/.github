@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/protectorate-banner.png?v=forcefield-a" alt="Protectorate Forcefield" width="100%">
-</p>
-
 <h1 align="center">Zero Trust for AI agents.</h1>
 
 <p align="center">
