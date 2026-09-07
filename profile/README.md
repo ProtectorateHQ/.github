@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/protectorate-banner.png?v=forcefield-a" alt="Protectorate Forcefield" width="100%">
 </p>
 
-<h1 align="center">Zero Trust for AI agents done right.</h1>
+<h1 align="center">Zero Trust for AI agents.</h1>
 
 <p align="center">
   Let your AI work proactively: build features, fix bugs, and handle incidents.<br>
@@ -25,8 +25,8 @@ infrastructure and third-party tools. Start with ready-made actions for tools
 such as Postgres, AWS, GCP, Kubernetes, GitHub and Sentry (or any of 90+ others), or add your own without setting up another agent
 integration.
 
-Choose who can access which tools and what they can do. Emisar's built-in
-policy system handles requests that need a person's approval. Its full audit trail
+Choose who can access which tools and what they can do. Your policies decide
+what runs, what gets blocked, and what needs approval. Emisar's full audit trail
 records all actions performed.
 
 [Try Emisar](https://emisar.dev/docs/quickstart) · [See available actions](https://emisar.dev/packs) · [How Emisar works](https://emisar.dev/how-it-works) · [How Emisar controls access](https://emisar.dev/security) · [Source](https://github.com/AndrewDryga/emisar)
