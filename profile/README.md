@@ -52,10 +52,10 @@ An alert lands in Slack at 2 a.m. Ryker picks it up and uses Emisar to check
 the affected systems. It investigates the problem and posts what it finds in
 the thread, without waiting for someone to ask.
 
-If fixing it needs a code change, hand Ryker that job in the same conversation.
-Coop runs the coding agent, and Ryker brings back the change for review. Emisar
-checks any requested system actions against your rules and asks for approval
-when needed.
+If the fix needs a code change, Ryker offers to make it in the same thread.
+You approve, Coop runs the coding agent, and Ryker opens a GitHub pull request
+with the fix for your review. Emisar checks any requested system actions
+against your rules and asks for approval when needed.
 
 Use Coop or Emisar with the AI assistant you already have, or bring the workflow
 into Slack and GitHub with Ryker.
