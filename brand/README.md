@@ -26,6 +26,8 @@ called Responder.
 When listing the products together, show each product's own mark beside its name.
 Keep its original colors and proportions; do not replace it with the Forcefield
 symbol. Use equal image boxes and check their visual balance at the displayed size.
+On GitHub, keep the mark and its spacing outside the product-name link so the
+underline starts at the name, not at the image.
 
 | Product | Current mark | Source |
 | --- | --- | --- |
