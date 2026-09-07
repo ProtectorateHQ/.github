@@ -25,12 +25,10 @@ your rules.
 
 [Meet Ryker](https://github.com/AndrewDryga/responder#quick-start) · [Source](https://github.com/AndrewDryga/responder)
 
-## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/coop.svg" width="40" height="40" align="absmiddle" alt="Coop logo">&ensp;[Coop](https://coop.dryga.com) — the operating system for coding agents
+## <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/coop.svg" width="40" height="40" align="absmiddle" alt="Coop logo">&ensp;[Coop](https://coop.dryga.com) — a runtime and orchestrator for coding agents
 
-Coop brings sandboxing, task management, and orchestration together. It gives
-coding agents a controlled place to work, tracks tasks from assignment to
-completion, and coordinates agents across different models. Run a single coding
-session or let a team of agents work through your queue.
+Run coding agents in containers, manage their tasks, and coordinate work across
+models.
 
 [Try Coop](https://coop.dryga.com) · [Source](https://github.com/AndrewDryga/coop)
 

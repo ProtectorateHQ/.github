@@ -28,8 +28,8 @@ called Responder.
 - **Ryker:** a proactive AI teammate in Slack and GitHub. It takes on engineering
   work, follows through on tasks, picks up alerts, and carries out requested
   fixes through Emisar.
-- **Coop:** the operating system for coding agents, bringing sandboxing, task
-  management, and orchestration together.
+- **Coop:** a runtime and orchestrator for coding agents. Run coding agents in
+  containers, manage their tasks, and coordinate work across models.
 - **Emisar:** secure remote access for AI agents to infrastructure and
   third-party tools. It lets agents do useful work through actions you choose,
   with policy checks, approvals when needed, and a record of every request.
