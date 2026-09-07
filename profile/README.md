@@ -2,42 +2,52 @@
   <img src="https://raw.githubusercontent.com/ProtectorateHQ/.github/main/profile/assets/protectorate-banner.png?v=forcefield-a" alt="Protectorate — Forcefield logo" width="100%">
 </p>
 
-<h1 align="center">Let agents work. Keep control.</h1>
+<h1 align="center">Put AI to work on your code and systems.</h1>
 
 <p align="center">
-  We build tools for AI agents to work on code and infrastructure<br>
-  within boundaries you choose.
+  Get help with coding, troubleshooting, and everyday maintenance.<br>
+  You decide what AI can access, what it can change, and when it needs your approval.
 </p>
 
-### [Coop](https://github.com/AndrewDryga/coop)
+Ask Ryker for help. Coop gives it a place to work on code, while Emisar controls
+what it can do on your systems.
 
-Run your coding agent in an isolated workspace, with controlled access to
-repositories and credentials. Use your choice of agent for interactive work
-or unattended tasks.
+## [Ryker](https://github.com/AndrewDryga/responder) — a teammate you can ask for help
 
-[Get started](https://coop.dryga.com) · [Source](https://github.com/AndrewDryga/coop)
+Give Ryker a task in Slack. It can investigate a problem, answer questions about
+your systems, or prepare a code change for review. It keeps track of unfinished
+work, so your team can pick up where it left off.
 
-### [Emisar](https://emisar.dev)
+[Meet Ryker](https://github.com/AndrewDryga/responder#quick-start) · [Source](https://github.com/AndrewDryga/responder)
 
-Let your agent investigate and operate infrastructure through actions you choose.
-Policy and host-side checks bound what can run, with approvals when required
-and an audit trail of action attempts.
+## [Coop](https://coop.dryga.com) — set boundaries for AI coding
 
-[Get started](https://emisar.dev/docs/quickstart) · [Action catalog](https://emisar.dev/packs) · [Source](https://github.com/AndrewDryga/emisar)
+Run the coding assistant you already use in a separate environment. You choose
+which projects and files it can access. Give it a task or a list of tasks,
+without having to guide every step.
 
-### [Ryker](https://github.com/AndrewDryga/responder)
+[Try Coop](https://coop.dryga.com) · [Source](https://github.com/AndrewDryga/coop)
 
-A persistent engineering and operations teammate in Slack. Ryker investigates
-problems, prepares code changes for review, and keeps track of ongoing work
-across conversations. It works through Coop's isolated sessions and Emisar's
-governed infrastructure access.
+## [Emisar](https://emisar.dev) — choose what AI can do on your systems
 
-[Get started](https://github.com/AndrewDryga/responder#quick-start) · [Source](https://github.com/AndrewDryga/responder)
+Let AI look into errors, check whether services are working, or carry out a
+specific change. You choose the actions it can take and which ones need approval.
+Emisar checks each request and keeps a record of it.
 
-<sub>Ryker is the new name for Responder.</sub>
+[Try Emisar](https://emisar.dev/docs/quickstart) · [See available actions](https://emisar.dev/packs) · [Source](https://github.com/AndrewDryga/emisar)
+
+## How they work together
+
+Suppose your app is running slowly. You ask Ryker to investigate. It uses Emisar
+to check the systems you have connected. If a code fix is needed, you can ask
+Ryker to prepare the change in Coop. Your team reviews it and decides whether
+to release it.
+
+Use Coop or Emisar with the AI assistant you already have, or use Ryker to bring
+the workflow into your team's Slack conversations.
+
+<sub>Ryker was formerly called Responder. Its source repository still uses that name.</sub>
 
 ---
 
-[Emisar for Cursor](https://github.com/ProtectorateHQ/emisar-cursor-plugin) · [Emisar security model](https://emisar.dev/security)
-
-[Brand guide](https://github.com/ProtectorateHQ/.github/blob/main/brand/README.md) · [Design guide](https://github.com/ProtectorateHQ/.github/blob/main/brand/DESIGN.md) · [Logo assets](https://github.com/ProtectorateHQ/.github/tree/main/brand/assets)
+[Brand guide](https://github.com/ProtectorateHQ/.github/blob/main/brand/README.md) · [Design guide](https://github.com/ProtectorateHQ/.github/blob/main/brand/DESIGN.md) · [Logo assets](https://github.com/ProtectorateHQ/.github/tree/main/brand/assets) · [How Emisar controls access](https://emisar.dev/security)

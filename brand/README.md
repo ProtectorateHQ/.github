@@ -2,9 +2,9 @@
 
 ![Protectorate Forcefield logo](../profile/assets/protectorate-banner.png)
 
-Protectorate builds tools for AI agents to work on code and infrastructure within
-boundaries you choose. The identity pairs the Forcefield symbol with custom
-lowercase lettering.
+Protectorate helps teams put AI to work on their code and systems, while choosing
+what it can access and change. The identity pairs the Forcefield symbol with
+custom lowercase lettering.
 
 [Design guide](DESIGN.md) · [Logo assets](assets) · [CSS tokens](tokens.css)
 
@@ -65,17 +65,20 @@ Use the opaque banner when the destination's background is unknown.
 
 ## Voice
 
-Write as a technically literate colleague: direct, specific and calm. Lead with
-the useful work an agent can do, then explain the boundaries that make that work
-appropriate.
+Write for someone new to these tools: use simple English and explain the useful
+work first. Introduce each product by its job, then show how the products work
+together through a familiar example. Keep the tone direct, helpful and calm.
 
 - Name the mechanism or product behavior behind a claim.
 - Describe controls precisely; avoid blanket safety promises.
-- Use ordinary words, sentence case and the reader's vocabulary.
+- Prefer “AI assistant” to “agent,” “separate environment” to “isolated execution,”
+  and “a record of what it did” to “audit trail” in introductory copy. Technical
+  documentation can use precise terms once they are explained.
+- Use sentence case and keep paragraphs short.
 - Keep product capabilities separate. A company-level statement must not imply
   every product provides the same controls.
 
-The company line is “Let agents work. Keep control.” Use it where it introduces
+The company line is “Let AI work. Keep control.” Use it where it introduces
 the umbrella, not as a repeated footer on every product explanation.
 
 ## Asset library
